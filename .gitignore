@@ -1,0 +1,22 @@
+# Visual Studio Build Folders
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.aps
+*.pdb
+
+# Compiled binaries
+*.exe
+*.dll
+*.lib
+
+# Ollama / Local AI temporary files
+*.bin
+*.log
+
+# C++ Precompiled headers
+*.pch
+*.ipch

@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../RadarProcessor_GPU/RadarProcessor_GPU.vcxproj">
+    <Platform Project="x64" />
+  </Project>
+</Solution>
